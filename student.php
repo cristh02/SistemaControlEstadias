@@ -21,7 +21,8 @@
         <link rel="stylesheet" href="CSS/logStyle.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     </HEAD>
-    <BODY>
+    <BODY background="IMAGENES/ut3F.jpg"><center>
+
         <!--header section start-->
         <div class="header_section">
 		<div class="container">
@@ -53,10 +54,10 @@
         <div class="container">
 		    <div class="row text-center login-page">
 			    <div class="col-md-12 login-form">
-                    <form action="1_sAdministrador/1_PHP/ValidarUsuario.php" method="POST" >
+                    <form action="1_Administrador/1_PHP/ValidarUsuario.php" method="POST" >
                         <div class="row">
 						    <div class="col-md-12 login-form-header">
-							    <p class="login-form-font-header">Iniciar<span>Sesion</span><p>
+							   <H1> <p class="login-form-font-header">INICIAR<span>SESIÓN</span><p></H1>
 						    </div>
 					    </div>
 					    <div class="row">

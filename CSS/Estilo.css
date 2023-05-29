@@ -5,10 +5,15 @@
 }
 /*Configuracion de resto del lienzo*/
 .contenedorI{
-    background-image: url("../IMAGENES/inicio.png");
+    background-image: url("../IMAGENES/ut3F.jpg");
     height:100vh;
     background-size:cover;
     background-position: center;
+    
+}
+.contenedorJ{
+background-image: url("../IMAGENES/ut3.png");
+    
     
 }
 .contenedor {
@@ -61,10 +66,11 @@ table.format{
     background-size: 100% 2px;
 }
 /*Tablas general y otras*/
-@media screen and (max-width: 920px) {
+@media screen and (max-width: 1000px) {
      table {
        display: block;
        overflow-x: auto;
+      
      }
 }
 .contenedorT {
@@ -73,4 +79,5 @@ table.format{
 .tableG{
     margin:0;
     overflow-x:scroll;
+   
 }

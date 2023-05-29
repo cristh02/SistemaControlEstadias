@@ -38,7 +38,7 @@
 	            };
             };
         </script>
-    <BODY>
+    <BODY background="IMAGENES/ut3F.jpg"><center>
         <!--header section start-->
         <div class="header_section">
 		<div class="container">
@@ -71,7 +71,7 @@
 		    <div class="row text-center login-page">
 			    <div class="col-md-12 login-form">
                 <form action="1_sAdministrador/1_PHP/Registrar.php" method="POST"><br>
-                    <p class="login-form-font-header">Regis<span>trarse</span><p>
+                    <p class="login-form-font-header">REGIS<span>TRARSE</span><p>
                     <p>DATOS DE USUARIO</p>
                     <div class="row">
 				        <div class="col-md-12 login-from-row">
